@@ -1,26 +1,26 @@
-# https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/action.yml
+# # https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/action.yml
 
-name: GH-Profile-3D-Contrib
+# name: GH-Profile-3D-Contrib
 
-on:
-  schedule: [{cron: "0 */24 * * *"}]
-  workflow_dispatch:
+# on:
+#   schedule: [{cron: "0 */24 * * *"}]
+#   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-gh-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: ${{ github.repository_count }}
-      - name: Commit & Push
-        run: |
-          git config user.name gionniboy
-          git config user.email me@maxgio.it
-          git add -A .
-          git commit -m "Update 3D Contributions images"
-          git push
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     name: generate-gh-profile-3d-contrib
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: yoshi389111/github-profile-3d-contrib@main
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+#           USERNAME: ${{ github.repository_owner }}
+#           MAX_REPOS: ${{ github.repository_count }}
+#       - name: Commit & Push
+#         run: |
+#           git config user.name gionniboy
+#           git config user.email me@maxgio.it
+#           git add -A .
+#           git commit -m "Update 3D Contributions images"
+#           git push

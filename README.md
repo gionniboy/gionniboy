@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 Languages and Tools:
+<!-- ### 🛠 Languages and Tools:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/uwsgi/uwsgi-original.svg" title="uWSGI" alt="uWSGI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp; -->
 
-#### &#x1f4c8; My GitHub Stats
+<!-- #### &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/gionniboy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gionniboy&show_icons=true&count_private=true&theme=highcontrast" alt="Gionniboy's GitHub Stats" />
@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<img width="625em" src="https://github.com/gionniboy/gionniboy/blob/main/github-metrics.svg" />
-</p>
+</p> -->
